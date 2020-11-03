@@ -1,0 +1,1 @@
+﻿http swapi.dev/api/planets/1/
